@@ -1,0 +1,46 @@
+.jumbotron {
+    background-color: chartreuse;
+    font-size: 30px;
+    text-align: center;
+    border-left: 6px solid blue;
+    background-color: skyblue;
+    border-radius: 25px;
+}
+
+h1 {
+    font-stretch: expanded;
+    font-family: 'Montserrat', sans-serif;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 25px;
+}
+
+body {
+    background-image: url(../images/file-20180822-149484-cs44to.jpg);
+    /* background-color: black; */
+    color: rgb(22, 20, 20);
+    font-size: 130%;
+}
+
+.paragraph1 {
+    height: auto;
+    width: 70%;
+    /* float: right; */
+    background-color: rgba(255, 17, 0, 0.116);
+    margin-left: 15%;
+    padding: 5%;
+    border-left: 6px solid blue;
+    background-color: skyblue;
+    border-radius: 25px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.photo {
+    height: 150px;
+    width: auto;
+    text-align: center;
+    display: block;
+}
